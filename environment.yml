@@ -1,0 +1,11 @@
+name: inf2178-project
+dependencies:
+  - python=3.6
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - ipython 
+  - jupyter
