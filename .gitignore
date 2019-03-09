@@ -328,3 +328,9 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VScode
+.vscode/
