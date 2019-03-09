@@ -10,9 +10,13 @@ conda env create --force -f environment.yml
 ```
 4. Activate the environment:
 ```
-activate inf2178-project
+source activate inf2178-project
 ```
 5. Run Jupyter notebook:
 ```
 jupyter notebook
+```
+6. Deactivate the environment:
+```
+source deactivate
 ```
